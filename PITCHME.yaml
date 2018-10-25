@@ -1,0 +1,5 @@
+# Overrides the default "git-repository" text
+footnote: "Collaboration in Open-Source Robotics"
+loop: true
+
+
