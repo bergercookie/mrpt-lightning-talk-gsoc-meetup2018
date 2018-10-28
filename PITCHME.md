@@ -2,7 +2,7 @@
 
 ---
 
-## MRPT
+### MRPT
 
 C++ framework for robotics - provide portable, well tested robotics libraries,
 applications
@@ -20,7 +20,7 @@ navigation/slam/planning
 
 ---
 
-## GSoC Summit 2018 - Open-Source Robotics session
+### GSoC Summit 2018 - Open-Source Robotics session
 
 ---?image=assets/robotic_session_orgs.png&size=contain
 
@@ -29,7 +29,7 @@ Same functionality - different levels of difficulty - specializes in a different
 
 ---
 
-## Actions
+### Actions
 
 - Code blocks/algorithms to reuse - benchmark implementations
 - Well-defined well-tested modular C++ code blocks/algorithms
@@ -41,7 +41,7 @@ Say what a concept is
 
 ---
 
-## Robotics C++ concepts - Why
+### Robotics C++ concepts - Why
 
 - Every project has a `Pose` class
 - Non-modular code
@@ -57,15 +57,16 @@ If you just moved in from another project/org you have to reread the
 
 ---
 
-## Robotics C++ concepts - Vision
+#### Robotics C++ concepts - Vision
 
-- Community accepted `Pose` concept
-- Pass *any* specific Pose by using the corresponding concept
-- Benchmark the implementations
-- Generic wrappers for families of algorithms
+* Community accepted `Pose` concept
+* Pass *any* Pose by using the corresponding concept
+* Benchmark the implementations
+* Generic wrappers for families of algorithms
 
-Links:
+<br>
 
-* https://github.com/MRPT/mrpt/issues/846
-* https://github.com/MRPT/rfcs/tree/master/concepts
-* https://github.com/bergercookie/concepts
+https://github.com/MRPT/mrpt/issues/846
+https://github.com/MRPT/rfcs/tree/master/concepts
+https://github.com/bergercookie/concepts
+

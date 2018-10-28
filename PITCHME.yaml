@@ -2,4 +2,6 @@
 footnote: "Collaboration in Open-Source Robotics"
 loop: true
 
+theme: white
+theme-override: assets/css/PITCHME.css
 
